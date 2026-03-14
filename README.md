@@ -6,11 +6,19 @@
 
 ---
 
+## 🌐 Live Demo
+
+`index.html` is the dynamic view of `analysis.pdf`, deployed at:
+**[https://adityakumarsingh2.github.io/SDLC-Assignment-AdityaKumarSingh/](https://adityakumarsingh2.github.io/SDLC-Assignment-AdityaKumarSingh/)**
+
+---
+
 ## 📂 Repository Contents
 
 | File | Description |
 |------|-------------|
-| `analysis.html` | Full project analysis — open in browser and print to PDF |
+| `index.html` | Dynamic web view of the analysis — live at the GitHub Pages URL above |
+| `analysis.pdf` | Full project analysis report (Waterfall failure + Agile pivot + Sprint Backlog) |
 | `sprint_backlog.csv` | Sprint 1 Backlog with user stories, priorities & estimates |
 | `README.md` | Project overview and CI/CD rationale (this file) |
 
